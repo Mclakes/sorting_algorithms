@@ -4,7 +4,7 @@
 /**
  * arr_max - array max
  * @array: array
- * @size: size of the array
+ * @size: size of d array
  * Return: max
  */
 int arr_max(int *array, size_t size)
@@ -20,9 +20,9 @@ int arr_max(int *array, size_t size)
 }
 
 /**
- * counting_sort - sorts an array with the Counting sort algorithm
+ * counting_sort - sorts an array with d Counting sort algorithm
  * @array: array to sort
- * @size: size of the array
+ * @size: size of d array
  */
 void counting_sort(int *array, size_t size)
 {

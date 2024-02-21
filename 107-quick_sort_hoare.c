@@ -54,7 +54,7 @@ void qsh(int *array, int first, int last, size_t size)
 }
 
 /**
- * quick_sort_hoare - sorts an array of integers using the Quick
+ * quick_sort_hoare - sorts an array of integers using d Quick
  * sort hoare algorithm  in ascending order
  * @array: array to sort
  * @size: array size

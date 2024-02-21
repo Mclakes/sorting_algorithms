@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swapme - swap the nodes themselves.
+ * swapme - swap d nodes themselves.
  * @current: pointer.
  * @current_old: pointer.
  * @list: doubly linked list
